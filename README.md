@@ -1,15 +1,116 @@
-###                                                                                        Hi guys 👋
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yesoke_snw) 
+<h1 align="center">Hi guys👽  </h1>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat&logo=bulma&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![AIOHTTP](https://img.shields.io/badge/iohttp-%232C5bb4.svg?style=flat&logo=aiohttp&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=flat&logo=Airbnb&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+<div align="center">
+  <a href="https://github.com/Arvinbuy7n">
+  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--
+<h2 align="center">
+  Welcome to Al Siam World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
+
+<!--
+<p align="center">
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+ -->
+
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank">Amgalanbaatar</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a full stack developer from <b>Mongolia</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+ <a href="https://instagram.com/yesoke_snw" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://www.facebook.com/profile.php?id=100043903941322" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+<br />
+
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+</p>
+<br/>
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=black)
+
+
+
+<br/>
+<br/>
+<hr/>
+<br/>
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amgalanbaatar888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amgalanbaatar888&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amgalanbaatar888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Amgalanbaatar888">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amgalanbaatar888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Amgalanbaatar888&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://github.com/Amgalanbaatar888">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amgalanbaatar888&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Amgalanbaatar's GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Amgalanbaatar888">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amgalanbaatar888&theme=tokyonight&hide_border=false" alt="Amgalanbaatar's GitHub Contribution"/>
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://github.com/Amgalanbaatar888">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amgalanbaatar888&theme=tokyonight" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+
