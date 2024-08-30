@@ -1,7 +1,6 @@
 <h1 align="center">Hi guys👽  </h1>
 
 <div align="center">
-  <a href="https://github.com/Arvinbuy7n">
   <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
